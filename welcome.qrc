@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>welcome/Login.qml</file>
+        <file>welcome/PicControl.qml</file>
+        <file>welcome/readme.js</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pages/page1.qml</file>
+        <file>pages/page2.qml</file>
+        <file>pages/PageControl.qml</file>
+        <file>pages/readme.js</file>
+    </qresource>
+</RCC>

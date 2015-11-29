@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>news/allNews.qml</file>
+        <file>news/details.qml</file>
+        <file>news/myNews.qml</file>
+        <file>news/NewsDelegate.qml</file>
+        <file>news/readme.js</file>
+        <file>news/someNews.qml</file>
+        <file>news/Tabs.qml</file>
+    </qresource>
+</RCC>

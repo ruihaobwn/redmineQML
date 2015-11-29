@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>projects/AllPro.qml</file>
+        <file>projects/oneIssue.qml</file>
+        <file>projects/oneProject.qml</file>
+        <file>projects/proActive.qml</file>
+        <file>projects/proJieshao.qml</file>
+        <file>projects/readme.js</file>
+    </qresource>
+</RCC>

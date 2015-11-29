@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>issues/allIssues.qml</file>
+        <file>issues/details.qml</file>
+        <file>issues/IssuesDelegate.qml</file>
+        <file>issues/myIssues.qml</file>
+        <file>issues/oneIssue.qml</file>
+        <file>issues/readme.js</file>
+        <file>issues/someIssues.qml</file>
+        <file>issues/tab.qml</file>
+        <file>issues/tabIssues.qml</file>
+        <file>issues/tabMyIssues.qml</file>
+        <file>issues/Tabs.qml</file>
+    </qresource>
+</RCC>
